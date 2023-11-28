@@ -22,7 +22,7 @@
 #### `김도연`
 >이메일: doyeon7507@gmail.com<br>
 >깃헙: https://github.com/kmdn998<br>
->프런트엔드<br>
+>반찬예측알고리즘<br>
 >기능구현<br>
 
 #### `김정숙`
